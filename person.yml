@@ -1,3 +1,8 @@
 person:
   name:
-    first_name: Stig
+    first_name: "Peter Niklas"
+    last_name: "Fjong"
+  age: 24
+  class: "JAVAD22"
+  start_year: 2022
+  hobbies: "Hemligt"
