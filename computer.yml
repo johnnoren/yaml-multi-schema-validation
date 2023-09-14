@@ -1,3 +1,13 @@
 computer:
   cpu:
+    manufacturer: "Amd"
     cores: 8
+    frequency: 66
+  memory:
+    manufacturer: "Corsair"
+    size: 512
+    type: "Desktop"
+  disk:
+    manufacturer: "Seagate"
+    size: 3.5
+    type: "Mechanical"
